@@ -1,8 +1,8 @@
 # Finding missing numbers in the list
-following the code find support following three scenarios
-1. it will find the missing number if the list contains duplicates
-2. if the list contains multiple missing numbers
-3. if the list contains negative numbers
+# following the code find support following three scenarios
+# 1. it will find the missing number if the list contains duplicates
+# 2. if the list contains multiple missing numbers
+# 3. if the list contains negative numbers
 
 def finding_missing_number():
     for number_list in number_list_1:
