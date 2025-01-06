@@ -1,4 +1,4 @@
-
+# https://www.youtube.com/watch?v=kJZrMGpyWpk&ab_channel=GregHogg
 def maxProfit():
     prices = [7, 1, 5, 3, 6, 4]
     max_profit = -1
